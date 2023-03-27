@@ -1,1 +1,1 @@
-README 수정됨
+README 수정됨 - conflict
